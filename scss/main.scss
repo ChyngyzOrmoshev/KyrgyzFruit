@@ -1,0 +1,85 @@
+body {
+  //background: linear-gradient(to bottom left, #fb9300, #ffffff) no-repeat;
+  font-family: 'Poppins', sans-serif;
+  .btn {
+    border-radius: 2em;
+    color: #ffffff;
+    }
+}
+
+span {
+    color: #fb9333;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.header {
+
+    .navbar {
+        padding: 1em 0;
+    }
+
+    .nav-link {
+        color: #575757;
+
+    }
+
+    .nav-item+.nav-item {
+        margin-left: 1em;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+}
+
+.logo {
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    color: #575757;
+    font-size: 2em;
+    font-weight: 700;
+    
+    .logo-1 {
+        color: #fb9333;
+        font-size: 1em;
+    }
+}
+
+.head {
+  
+    .button {
+        border: 1px solid transparent;
+        border-radius: 2em;
+        background-color: #FFF0DC;
+        color: #212529;
+        text-align: center;
+        text-decoration: none;
+        vertical-align: middle;
+        cursor: pointer;
+        user-select: none;
+        padding: 0.375rem 0.75rem;
+        border-radius: 2rem;
+    }
+}
+
+.subscribe {
+    border: 1px solid transparent;
+    border-radius: 2em;
+    background-color: #FFF0DC;
+    text-align: center;
+
+    .fs-1 {
+        font-weight: 700;
+    }
+
+    .form-control {
+        border-radius: 0;
+    }
+
+    .btn {
+        border-radius: 0;
+    }
+}
