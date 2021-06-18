@@ -84,3 +84,11 @@ span {
   -webkit-border-radius: 0;
           border-radius: 0;
 }
+
+.footer {
+  background-color: #dddddd;
+}
+
+.footer .address {
+  text-align: center;
+}
